@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\azmank01\\Training\\TestAPI\\TestAPI.csproj": {}
+    "C:\\Users\\azmank01\\Training\\Create a web API with ASP.NET Core controllers\\TestAPI\\TestAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\azmank01\\Training\\TestAPI\\TestAPI.csproj": {
+    "C:\\Users\\azmank01\\Training\\Create a web API with ASP.NET Core controllers\\TestAPI\\TestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\azmank01\\Training\\TestAPI\\TestAPI.csproj",
+        "projectUniqueName": "C:\\Users\\azmank01\\Training\\Create a web API with ASP.NET Core controllers\\TestAPI\\TestAPI.csproj",
         "projectName": "TestAPI",
-        "projectPath": "C:\\Users\\azmank01\\Training\\TestAPI\\TestAPI.csproj",
+        "projectPath": "C:\\Users\\azmank01\\Training\\Create a web API with ASP.NET Core controllers\\TestAPI\\TestAPI.csproj",
         "packagesPath": "C:\\Users\\azmank01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\azmank01\\Training\\TestAPI\\obj\\",
+        "outputPath": "C:\\Users\\azmank01\\Training\\Create a web API with ASP.NET Core controllers\\TestAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\azmank01\\AppData\\Roaming\\NuGet\\NuGet.Config",
