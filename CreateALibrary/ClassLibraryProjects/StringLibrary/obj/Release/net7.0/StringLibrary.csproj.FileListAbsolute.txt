@@ -1,0 +1,12 @@
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\CreateALibrary\ClassLibraryProjects\StringLibrary\bin\Release\net7.0\StringLibrary.deps.json
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\CreateALibrary\ClassLibraryProjects\StringLibrary\bin\Release\net7.0\StringLibrary.dll
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\CreateALibrary\ClassLibraryProjects\StringLibrary\bin\Release\net7.0\StringLibrary.pdb
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\CreateALibrary\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\CreateALibrary\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\CreateALibrary\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\CreateALibrary\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.AssemblyInfo.cs
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\CreateALibrary\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\CreateALibrary\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.dll
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\CreateALibrary\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\refint\StringLibrary.dll
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\CreateALibrary\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\StringLibrary.pdb
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\CreateALibrary\ClassLibraryProjects\StringLibrary\obj\Release\net7.0\ref\StringLibrary.dll

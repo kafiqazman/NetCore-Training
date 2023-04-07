@@ -1,0 +1,5 @@
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\HelloWorld\Publish\HelloWorld.exe
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\HelloWorld\Publish\HelloWorld.dll
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\HelloWorld\Publish\HelloWorld.deps.json
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\HelloWorld\Publish\HelloWorld.runtimeconfig.json
+C:\Users\azmank01\Training\Create a web API with ASP.NET Core controllers\HelloWorld\Publish\HelloWorld.pdb

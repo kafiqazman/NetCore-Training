@@ -1,4 +1,4 @@
-Completed Training :
+Completed Training (Training, Folder Name):
 
 1.  https://learn.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/ (TestAPI, CentosoPizza)
 
@@ -6,6 +6,10 @@ Completed Training :
 
 3. https://learn.microsoft.com/en-us/training/modules/dotnet-debug/
 (DotNetDebugging)
+
+4. https://learn.microsoft.com/en-us/training/modules/dotnet-files/ (FileSystem)
+
+5.  https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio?pivots=dotnet-7-0 (HelloWorld, CreateALibrary)
 
 Notes :
 1.  Creating a ASP.NET Core app using the CLI
