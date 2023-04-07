@@ -5,9 +5,11 @@ Completed Training :
 2. https://learn.microsoft.com/en-us/training/modules/dotnet-dependencies/ (DotNetDependencies)
 
 3. https://learn.microsoft.com/en-us/training/modules/dotnet-debug/
+(DotNetDebugging)
 
 Notes :
 1.  Creating a ASP.NET Core app using the CLI
 >  dotnet new webapi -f net6.0
 2.  Starting the API
 >  dotnet run
+3. Creating run & build, Click the Run & Debug button.Click Create launch.json

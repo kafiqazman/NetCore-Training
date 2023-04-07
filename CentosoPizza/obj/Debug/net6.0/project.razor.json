@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\azmank01\\Training\\Create a web API with ASP.NET Core controllers\\TestAPI\\obj\\Debug\\net6.0\\project.razor.json",
-  "FilePath": "c:\\Users\\azmank01\\Training\\Create a web API with ASP.NET Core controllers\\TestAPI\\TestAPI.csproj",
+  "SerializedFilePath": "c:\\Users\\azmank01\\Training\\Create a web API with ASP.NET Core controllers\\CentosoPizza\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\azmank01\\Training\\Create a web API with ASP.NET Core controllers\\CentosoPizza\\CentosoPizza.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -18371,7 +18371,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "TestAPI",
+  "RootNamespace": "CentosoPizza",
   "Documents": [],
   "SerializationFormat": "0.3"
 }
